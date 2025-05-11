@@ -1,4 +1,4 @@
-# .github
+# Engenharia de Computação 
 Repositório para as disciplinas que cursei no curso de Engenharia de Computação da UFRGS.
 
 ### Currículo do curso
